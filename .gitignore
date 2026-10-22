@@ -1,0 +1,5 @@
+*.elf
+*.o
+*.SFO
+config.txt
+__pycache__/
